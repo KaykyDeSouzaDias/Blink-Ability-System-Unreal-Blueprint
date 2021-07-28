@@ -5,7 +5,7 @@ This project is a Blink ability system made with Unreal Engine blueprint, with a
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/1m310Rg9gCkurkG17CDeaRhTzlZKtZm_3/view?usp=sharing
 
-![](https://github.com/KaykyDeSouzaDias/Blink-Ability-System-Unreal-Blueprint/blob/main/Images%20%26%20GIFs/GameplayGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/Blink-Ability-System-Unreal-Blueprint/blob/main/Images%20%26%20GIFs/BlinkGIF.gif)
 
 # Reference
 
